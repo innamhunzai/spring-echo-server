@@ -1,1 +1,4 @@
-*.rb linguist-language=Java
+*.cmd linguist-language=Java
+*.iml linguist-language=Java
+mvnw linguist-language=Java
+*.xml linguist-language=Java
